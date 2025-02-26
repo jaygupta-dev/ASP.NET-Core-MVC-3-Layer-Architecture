@@ -1,0 +1,15 @@
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.deps.json
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.dll
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.pdb
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.dll
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\Business.450209FB.Up2Date
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.dll
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\refint\BusinessLogicLayer.dll
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.pdb
+C:\Users\jayan\OneDrive\Desktop\New folder\DotNetCore_CRUD\DotNetCore_CRUD\BusinessLogicLayer\obj\Debug\net9.0\ref\BusinessLogicLayer.dll
